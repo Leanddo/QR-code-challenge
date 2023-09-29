@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+[GitHubPages](https://leanddo.github.io/QR-code-challenge/qr-code-component-main/index.html)
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
